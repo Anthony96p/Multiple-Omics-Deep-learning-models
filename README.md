@@ -7,3 +7,5 @@ Write a script indicating the sequence of functions to be called for:
 the patients in one of the different classes.
 3. Analyzing the results of the different approaches and varying the hyperparameters
 using cross validation on genomic data
+
+Link to get the datasets: https://drive.google.com/drive/folders/148VC9WzM-NmNscvRNtSC8AIPZEFRGArF?usp=share_link
