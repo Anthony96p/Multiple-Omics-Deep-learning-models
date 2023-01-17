@@ -1,4 +1,4 @@
-# Multiple_Omics_Deep_learning_models
+# Multiple Omics Deep learning models
 The goal is to be able to correctly classify each subtype of bladder cancer using all available information (gene expression, methylation, ...)
 
 Write a script indicating the sequence of functions to be called for:
